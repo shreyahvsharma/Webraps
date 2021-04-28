@@ -1,0 +1,18 @@
+
+.links-heading{
+    margin: 0;
+    width: 98%;
+    background-color: #f1f1f1;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: large;
+    display: inline-block;
+    padding: 16px 16px;
+    text-decoration: none; 
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+  }
+
+.links-heading a:hover{
+        color: crimson;
+}
